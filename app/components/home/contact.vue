@@ -32,8 +32,7 @@ const navigateToMap = () => {
                                     stroke="#ffff" stroke-width="1.5" stroke-miterlimit="10"></path>
                             </svg>
                         </div>
-                        <a href="tel:+9660564530116" class="lg:text-[1.5em] text-[1.25em] hover:text-[#960001]">+966
-                            0564530116</a>
+                        <a href="tel:+966564530116" class="lg:text-[1.5em] text-[1.25em] hover:text-[#960001]">+966564530116</a>
                     </div>
                     <div class="flex lg:gap-[1em] gap-[0.5em] items-center">
                         <div class="bg-[#960001] p-[0.5em] rounded-full">
