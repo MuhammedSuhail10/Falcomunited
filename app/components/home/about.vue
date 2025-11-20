@@ -17,7 +17,7 @@
                                     class="text-[#960001]">Us</span>
                             </p>
                             <img src="~/assets/images/about/about2.avif" alt=""
-                                class="rounded-[1.5em] lg:rounded-[3em] lg:h-[15em] ">
+                                class="rounded-[1.5em] lg:rounded-[3em] lg:h-[15.5em] h-[7em]">
                         </div>
                     </div>
                 </div>
