@@ -1,22 +1,23 @@
 <template>
-    <section id="about">
+    <section id="about" aria-label="About Falcom United General Contracting Est. Company">
+        <h2 class="sr-only">About Falcom United Contracting Company</h2>
         <div class="lg:pt-[9em] lg:pb-[1em] pt-[3em] lg:px-[12em] px-[1em] ">
             <div class="flex flex-col lg:flex-row items-center gap-[0.5em] lg:gap-[3em] ">
                 <div class="lg:w-[50%] ">
                     <div class="">
-                        <img src="~/assets/images/about/about1.avif" alt=""
+                        <img src="~/assets/images/about/about1.avif" alt="Team of Falcom United working together to drive industrial development"
                             class="rounded-[1.5em] lg:rounded-[3em] h-[10em] lg:h-[100%] ">
                     </div>
                     <div class="my-[5px] lg:my-[1em] flex flex-row-reverse lg:flex-row gap-[1em]">
                         <div class="w-[50%]">
-                            <img src="~/assets/images/about/about3.avif" alt=""
+                            <img src="~/assets/images/about/about3.avif" alt="Industrial operations and construction support services by Falcom United"
                                 class="rounded-[1.5em] lg:rounded-[3em] lg:h-[20em] h-[10em] ">
                         </div>
                         <div class="w-[50%] flex flex-col">
                             <p class="font-[sansita] lg:text-end text-center lg:text-[3em] text-[2em]">About <span
                                     class="text-[#960001]">Us</span>
                             </p>
-                            <img src="~/assets/images/about/about2.avif" alt=""
+                            <img src="~/assets/images/about/about2.avif" alt="Professional workforce of Falcom United contributing to company growth"
                                 class="rounded-[1.5em] lg:rounded-[3em] lg:h-[15.5em] h-[7em]">
                         </div>
                     </div>
@@ -42,7 +43,7 @@
             <div class="flex flex-col text-white lg:flex-row mt-[1em] lg:mt-[3em] gap-[1em] lg:gap-[5em] ">
                 <div class="lg:w-[50%] relative p-[1.5em] lg:p-[3em] bg-[#C3292C]/80 rounded-[2em] lg:rounded-[3em]">
                     <div class="absolute bottom-0 right-0 lg:right-[2em]">
-                        <img src="~/assets/images/about/mission-removebg-preview.png" alt=""
+                        <img src="~/assets/images/about/mission-removebg-preview.png" alt="Falcom United Contracting mission illustration representing manpower and equipment service excellence"
                             class="lg:h-[20em] h-[13.5em]">
                     </div>
                     <h3 class="text-[1.5em] lg:text-[2em] font-semibold">Mission</h3>
@@ -61,7 +62,7 @@
                 </div>
                 <div class="lg:w-[50%] relative p-[1.5em] lg:p-[3em] bg-[#C3292C]/80 rounded-[2em] lg:rounded-[3em]">
                     <div class="absolute bottom-0 right-[-1em]">
-                        <img src="~/assets/images/about/vision-removebg-preview.png" alt=""
+                        <img src="~/assets/images/about/vision-removebg-preview.png" alt="Falcom United Contracting vision graphic symbolizing growth and industry support"
                             class="lg:h-[20em] h-[13.5em]">
                     </div>
                     <h3 class="text-[1.5em] lg:text-[2em] font-semibold">Vision</h3>

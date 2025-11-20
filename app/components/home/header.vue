@@ -1,8 +1,11 @@
 <template>
-    <section id="home"
+    <section id="home" aria-label="Falcom United General Contracting Est. Hero Section"
         class="bg-[url(~/assets/images/construction.avif)] relative bg-cover bg-center bg-no-repeat h-[100svh] overflow-hidden">
         <div
             class="bg-[#C7C4B7]/40 backdrop-blur-xl absolute top-[65%] lg:top-[60%] md:px-[5em] px-[1em] py-[1.5em] rounded-r-[2em] lg:rounded-r-[3em] w-[95%] lg:w-fit">
+            <h1 class="sr-only">
+                Falcom United General Contracting Est. – Driven by Excellence and Committed to Your Success
+            </h1>
             <div class="font-[sansita] md:text-[3em] text-[2em] leading-[1.2em]">
                 <p>Driven by <span class="text-[#960001]">Excellence</span>.</p>
                 <p>Committed to Your Success.</p>

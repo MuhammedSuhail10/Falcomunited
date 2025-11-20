@@ -1,5 +1,6 @@
 <template>
-    <section id="services">
+    <section id="services" aria-label="Services offered by Falcom United General Contracting Est. Company">
+        <h2 class="sr-only">Our Services</h2>
         <div class="lg:pt-[6em] lg:pb-[1em] pt-[3em] lg:px-[12em] px-[1em] ">
             <div>
                 <p class="font-[sansita] text-center lg:text-[3em] text-[2em]">
@@ -15,6 +16,7 @@
                         <div class="h-[21em] lg:h-[30em] w-[50%] overflow-hidden rounded-[1.5em] lg:rounded-[3em]">
                             <div
                                 class="h-full w-full bg-[url('~/assets/images/services/sitemg.avif')] rounded-[1.5em] lg:rounded-[3em] bg-cover bg-center bg-no-repeat transition-all duration-500 z-0 hover:scale-110 flex items-end p-[1em] lg:p-[1.5em] hover:p-[3em] relative">
+                                <span class="sr-only">Falcom United Contracting professional site manager services for industrial and construction projects</span>
                                 <div
                                     class="absolute inset-0 bg-gradient-to-t from-black/70 via-black/20 to-transparent rounded-[1.5em] lg:rounded-[3em] pointer-events-none">
                                 </div>
@@ -25,6 +27,7 @@
                             <div class="h-[10em] lg:h-[14.5em] overflow-hidden rounded-[1.5em] lg:rounded-[3em] w-[100%]">
                                 <div
                                     class="h-full w-full bg-[url('~/assets/images/services/qcmg.avif')] rounded-[1.5em] lg:rounded-[3em] bg-cover bg-center bg-no-repeat transition-all duration-500 z-0 hover:scale-110 flex items-end p-[1em] lg:p-[1.5em] hover:p-[2em] relative">
+                                    <span class="sr-only">Falcom United Contracting QC manager services ensuring quality and compliance standards</span>
                                     <div
                                         class="absolute inset-0 bg-gradient-to-t from-black/70 via-black/20 to-transparent rounded-[1.5em] lg:rounded-[3em] pointer-events-none">
                                     </div>
@@ -34,6 +37,7 @@
                             <div class="h-[10em] lg:h-[14.5em] overflow-hidden rounded-[1.5em] lg:rounded-[3em] w-[100%]">
                                 <div
                                     class="h-full w-full bg-[url('~/assets/images/services/projectmg.avif')] rounded-[1.5em] lg:rounded-[3em] bg-cover bg-center bg-no-repeat transition-all duration-500 z-0 hover:scale-110 flex items-end p-[1em] lg:p-[1.5em] hover:p-[2em] relative">
+                                    <span class="sr-only">Falcom United Contracting project management services for industrial, construction, and maintenance operations</span>
                                     <div
                                         class="absolute inset-0 bg-gradient-to-t from-black/70 via-black/20 to-transparent rounded-[1.5em] lg:rounded-[3em] pointer-events-none">
                                     </div>
@@ -45,6 +49,7 @@
                     <div class="h-[8em] lg:h-[12em] overflow-hidden w-[100%] rounded-[1.5em] lg:rounded-[3em]">
                         <div
                             class="h-full w-full bg-[url('~/assets/images/services/document.avif')] rounded-[1.5em] lg:rounded-[3em] bg-cover bg-center bg-no-repeat transition-all duration-500 z-0 hover:scale-110 flex items-end p-[1em] lg:p-[1.5em] hover:px-[3em] relative">
+                            <span class="sr-only">Falcom United Contracting document controllers and secretarial support services for project documentation</span>
                             <div
                                 class="absolute inset-0 bg-gradient-to-t from-black/70 via-black/20 to-transparent rounded-[1.5em] lg:rounded-[3em] pointer-events-none">
                             </div>
@@ -57,6 +62,7 @@
                     <div class="h-[7em] lg:h-[10em] overflow-hidden w-[100%] rounded-[1.5em] lg:rounded-[3em]">
                         <div
                             class="h-full w-full bg-[url('~/assets/images/services/constructionmg.avif')] rounded-[1.5em] lg:rounded-[3em] bg-cover bg-center bg-no-repeat transition-all duration-500 z-0 hover:scale-110 flex items-end p-[1em] lg:p-[1.5em] hover:px-[3em] relative">
+                            <span class="sr-only">Falcom United Contracting construction manager services for industrial and construction projects</span>
                             <div
                                 class="absolute inset-0 bg-gradient-to-t from-black/70 via-black/20 to-transparent rounded-[1.5em] lg:rounded-[3em] pointer-events-none">
                             </div>
@@ -67,6 +73,7 @@
                         <div class="h-[7em] lg:h-[10em] overflow-hidden rounded-[1.5em] lg:rounded-[3em] w-[100%]">
                             <div
                                 class="h-full w-full bg-[url('~/assets/images/services/costcontrol.avif')] rounded-[1.5em] lg:rounded-[3em] bg-cover bg-center bg-no-repeat transition-all duration-500 z-0 hover:scale-110 flex items-end p-[1em] lg:p-[1.5em] hover:px-[2em] relative">
+                                <span class="sr-only">Falcom United Contracting planning and cost control engineering services for project budgeting and scheduling</span>
                                 <div
                                     class="absolute inset-0 bg-gradient-to-t from-black/70 via-black/20 to-transparent rounded-[1.5em] lg:rounded-[3em] pointer-events-none">
                                 </div>
@@ -77,6 +84,7 @@
                         <div class="h-[7em] lg:h-[10em] overflow-hidden rounded-[1.5em] lg:rounded-[3em] w-[100%]">
                             <div
                                 class="h-full w-full bg-[url('~/assets/images/services/designeng.avif')] rounded-[1.5em] lg:rounded-[3em] bg-cover bg-center bg-no-repeat transition-all duration-500 z-0 hover:scale-110 flex items-end p-[1em] lg:p-[1.5em] hover:px-[2em] relative">
+                                <span class="sr-only">Falcom United Contracting designers and design engineers providing technical and engineering design solutions</span>
                                 <div
                                     class="absolute inset-0 bg-gradient-to-t from-black/70 via-black/20 to-transparent rounded-[1.5em] lg:rounded-[3em] pointer-events-none">
                                 </div>
@@ -89,6 +97,7 @@
                         <div class="h-[15em] lg:h-[21em] overflow-hidden w-[50%] rounded-[1.5em] lg:rounded-[3em]">
                             <div
                                 class="h-full w-full  bg-[url('~/assets/images/services/surveyors.avif')] rounded-[1.5em] lg:rounded-[3em] bg-cover bg-center bg-no-repeat transition-all duration-500 z-0 hover:scale-110 flex items-end p-[1em] lg:p-[1.5em] hover:p-[3em] relative">
+                                <span class="sr-only">Falcom United Contracting professional land and construction surveying services</span>
                                 <div
                                     class="absolute inset-0 bg-gradient-to-t from-black/70 via-black/20 to-transparent rounded-[1.5em] lg:rounded-[3em] pointer-events-none">
                                 </div>
@@ -99,6 +108,7 @@
                             <div class="h-[7em] lg:h-[10em] overflow-hidden rounded-[1.5em] lg:rounded-[3em] w-[100%]">
                                 <div
                                     class="h-full w-full bg-[url('~/assets/images/services/safetyofficers.avif')] rounded-[1.5em] lg:rounded-[3em] bg-cover bg-center bg-no-repeat transition-all duration-500 z-0 hover:scale-110 flex items-end p-[1em] lg:p-[1.5em] hover:px-[2em] relative">
+                                    <span class="sr-only">Falcom United Contracting safety officers ensuring workplace safety and regulatory compliance</span>
                                     <div
                                         class="absolute inset-0 bg-gradient-to-t from-black/70 via-black/20 to-transparent rounded-[1.5em] lg:rounded-[3em] pointer-events-none">
                                     </div>
@@ -108,6 +118,7 @@
                             <div class="h-[7em] lg:h-[10em] overflow-hidden rounded-[1.5em] lg:rounded-[3em] w-[100%]">
                                 <div
                                     class="h-full w-full bg-[url('~/assets/images/services/plantinspectors.avif')] rounded-[1.5em] lg:rounded-[3em] bg-cover bg-center bg-no-repeat transition-all duration-500 z-0 hover:scale-110 flex items-end p-[1em] lg:p-[1.5em] hover:px-[2em] relative">
+                                    <span class="sr-only">Falcom United Contracting plant inspector services for equipment, machinery, and site inspections</span>
                                     <div
                                         class="absolute inset-0 bg-gradient-to-t from-black/70 via-black/20 to-transparent rounded-[1.5em] lg:rounded-[3em] pointer-events-none">
                                     </div>

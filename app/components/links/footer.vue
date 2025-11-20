@@ -8,7 +8,7 @@ const currentYear = now.getFullYear();
         <div
             class="bg-[#C7C4B7] flex flex-col lg:flex-row border-t-1 border-[#960001] lg:px-[12em] px-[1em] lg:py-[6em] py-[3em]">
             <div class="lg:w-[30%] flex lg:flex-col justify-center items-center ">
-                <img src="~/assets/images/icon.avif" alt="Falcom United" class="h-[10em]">
+                <img src="~/assets/images/icon.avif" alt="Falcom United General Contracting Est. Company Logo" class="h-[10em]">
                 <div class="my-[1em]">
                     <p class="lg:text-center lg:text-[1.5em] text-[1.25em]">©{{ currentYear }} <NuxtLink to="/"
                             class="hover:text-[#C3292C] text-[#960001] font-semibold">Falcom United</NuxtLink>.</p>
