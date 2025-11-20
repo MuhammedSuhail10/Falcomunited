@@ -39,10 +39,10 @@ onUnmounted(() => {
 <template>
     <div class="relative">
         <div
-            class="bg-black/20 backdrop-blur-lg border-1 border-[#C7C4B7] rounded-full lg:py-[1em] py-[0.5em] lg:px-[2em] px-[1em] flex justify-between text-white">
+            class="bg-black/20 backdrop-blur-lg border-1 border-[#C7C4B7] rounded-full lg:py-[1em] py-[0.5em] lg:px-[2em] px-[1em] flex justify-between gap-[0.5em] text-white">
             <NuxtLink to="#home" class="flex items-center lg:gap-[0.5em]">
                 <img src="~/assets/images/icon.avif" alt="Falcom United" class="h-[4em]">
-                <p class="font-[800] leading-none">Falcom <br class="lg:hidden" /> United</p>
+                <p class="font-[800] text-[1.25em] leading-none">Falcom United</p>
             </NuxtLink>
 
             <div class="hidden lg:flex gap-[2.5em] items-center">
