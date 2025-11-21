@@ -43,7 +43,7 @@
             <div class="flex flex-col text-white lg:flex-row mt-[1em] lg:mt-[3em] gap-[1em] lg:gap-[5em] ">
                 <div class="lg:w-[50%] relative p-[1.5em] lg:p-[3em] bg-[#C3292C]/80 rounded-[2em] lg:rounded-[3em]">
                     <div class="absolute bottom-0 right-0 lg:right-[2em]">
-                        <img src="~/assets/images/about/mission-removebg-preview.png" alt="Falcom United Contracting mission illustration representing manpower and equipment service excellence"
+                        <img src="~/assets/images/about/mission.avif" alt="Falcom United Contracting mission illustration representing manpower and equipment service excellence"
                             class="lg:h-[20em] h-[13.5em]">
                     </div>
                     <h3 class="text-[1.5em] lg:text-[2em] font-semibold">Mission</h3>
@@ -62,7 +62,7 @@
                 </div>
                 <div class="lg:w-[50%] relative p-[1.5em] lg:p-[3em] bg-[#C3292C]/80 rounded-[2em] lg:rounded-[3em]">
                     <div class="absolute bottom-0 right-[-1em]">
-                        <img src="~/assets/images/about/vision-removebg-preview.png" alt="Falcom United Contracting vision graphic symbolizing growth and industry support"
+                        <img src="~/assets/images/about/vision.avif" alt="Falcom United Contracting vision graphic symbolizing growth and industry support"
                             class="lg:h-[20em] h-[13.5em]">
                     </div>
                     <h3 class="text-[1.5em] lg:text-[2em] font-semibold">Vision</h3>

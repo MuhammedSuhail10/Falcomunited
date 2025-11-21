@@ -5,7 +5,8 @@ const navigateToMap = () => {
 </script>
 
 <template>
-    <section id="contact">
+    <section id="contact" aria-label="Contact Falcom United General Contracting Est. Company">
+        <h2 class="sr-only">Contact</h2>
         <div class="lg:pt-[6em] lg:pb-[1em] pt-[3em] lg:px-[12em] px-[1em] ">
             <p class="font-[sansita] text-center lg:text-[3em] text-[2em]">
                 Contact <span class="text-[#960001]">Us</span>
@@ -103,7 +104,7 @@ const navigateToMap = () => {
                             No: 4119, Opp Global Source, King
                             Fahad Ibn Abdul Aziz Branch, Al Dana District, Al Jubail, KSA
                         </p>
-                        <iframe width="100%" height="450" style="border:0; border-radius:1.5em;" loading="lazy"
+                        <iframe title="Google Map location of Falcom United General Contracting Est. Company, XMJ6+96F, Al Jubail, Saudi Arabia" width="100%" height="450" style="border:0; border-radius:1.5em;" loading="lazy"
                             allowfullscreen="" referrerpolicy="no-referrer-when-downgrade"
                             src="https://maps.google.com/maps?q=XMJ6%2B96F,+Al+Jubail,+Saudi+Arabia&z=17&output=embed">
                         </iframe>
