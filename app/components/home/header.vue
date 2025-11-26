@@ -26,8 +26,8 @@
                     </svg>
                 </div>
                 <div class="flex flex-col">
-                    <a href="mailto:info@falcomunted.com"
-                        class="lg:text-[1.5em] text-[1.25em] hover:text-[#960001]">info@falcomunted.com</a>
+                    <a href="mailto:info@falcomunited.com"
+                        class="lg:text-[1.5em] text-[1.25em] hover:text-[#960001]">info@falcomunited.com</a>
                 </div>
             </div>
             <!-- <div class="flex lg:gap-[1em] gap-[0.5em] mt-[1em] items-center">

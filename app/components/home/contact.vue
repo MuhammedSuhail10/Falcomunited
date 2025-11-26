@@ -46,7 +46,7 @@ const navigateToMap = () => {
                         <div class="flex flex-col">
                             <a href="mailto:ajil@falcomunited.com"
                                 class="lg:text-[1.5em] text-[1.25em] hover:text-[#960001]">ajil@falcomunited.com</a>
-                            <a href="mailto:info@falcomunted.com"
+                            <a href="mailto:info@falcomunited.com"
                                 class="lg:text-[1.5em] text-[1.25em] hover:text-[#960001]">info@falcomunited.com</a>
                         </div>
                     </div>
